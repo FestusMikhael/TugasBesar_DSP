@@ -6,7 +6,6 @@ from mediapipe.tasks.python import vision
 import matplotlib.pyplot as plt
 from collections import deque
 
-# -- (Kamu bisa pakai kode respiration.py yang sudah ada, saya ringkas di sini) --
 
 # Model path dan konfigurasi pose detector
 model_path = "models/pose_landmarker.task"
